@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to My GitHub! 🌟  
 
-![Profile Banner](https://via.placeholder.com/700x150.png?text=Welcome+to+My+GitHub)  
+![Profile Banner](![Ritika Mishra Banner](https://raw.githubusercontent.com/Ritika-mishra412/-data-analysis-project-/main/ritika_banner.png))  
 
 </div>
 
