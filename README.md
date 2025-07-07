@@ -13,35 +13,52 @@ Hello! I'm ritika mishra, i am student of ** MSC (Data Science) ** with a passio
 
 ---
 
-## 🛠️ Skills  
-### **Programming Languages**
+## 🛠️ Skills
+
+### 💻 **Programming Languages**
 - 🐍 **Python**
 - ☕ **Java**
 - 🌐 **JavaScript**
-- 🔧 **C Programming**
-  
-### **Web Development**
+- 💻 **C Programming**
+
+### 🌐 **Web Development**
 - 🎨 **HTML/CSS**
 - ⚡ **JavaScript**
-  
-### **Data Science & Analytics**
-- 📊 **SQL**: Database management and querying  
-- 📈 **Data Visualization**: Python libraries like **Matplotlib** and **Seaborn**  
-- 🤖 **Machine Learning**: Predictive modeling with **Scikit-learn**  
 
+### 📊 **Data Science & Analytics**
+- 🗃️ **SQL**: Database management and querying
+- 📈 **Data Visualization**: Python libraries like **Matplotlib**, **Seaborn**, and tools like **Power BI**
+- 🤖 **Machine Learning**: Predictive modeling with **Scikit-learn**
+- 🧮 **Numerical Computing**: Using **NumPy**
+- 🐼 **Data Manipulation**: Using **Pandas**
+- 📊 **Excel**: Data organization and basic analytics
 ---
 
 ## 🌟 Projects  
 
-### 🧩 **1. Social Media Sentiment Analysis**  
-- Built a machine learning model to analyze user sentiments on Twitter and Instagram.  
+## 🌟 Projects
+
+### 🍃 **1. Social Media Sentiment Analysis**
+- Built a machine learning model to analyze user sentiments on Twitter and Instagram.
 - Used Python libraries such as Pandas, Scikit-learn, and Seaborn.
 
-### 🌐 **2. Interactive Portfolio Website**  
-- Designed a responsive personal portfolio using HTML, CSS, and JavaScript.  
+### 🌐 **2. Interactive Portfolio Website**
+- Designed a responsive personal portfolio using HTML, CSS, and JavaScript.
 
-### 📂 **3. SQL Data Explorer**  
+### 📊 **3. SQL Data Explorer**
 - Wrote advanced SQL queries to explore and visualize large datasets.
+
+### 🗣️ **4. Language Detection using NLP**
+- Developed a language identification model using NLP techniques.
+- Applied machine learning models to classify text into multiple languages.
+
+### 📈 **5. Sales Prediction using Machine Learning**
+- Built a regression model to predict sales based on advertising and historical data.
+- Used Python libraries like Pandas, Scikit-learn, and Matplotlib for analysis and visualization.
+
+### 🍽️ **6. Zomato Data Analysis Project**
+- Analyzed Zomato dataset using Python and extracted business insights.
+- Performed data cleaning, visualization (Matplotlib, Seaborn), and customer behavior study.
 
 ---
 
