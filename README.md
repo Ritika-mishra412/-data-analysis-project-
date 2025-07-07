@@ -61,6 +61,11 @@ Hello! I'm ritika mishra, i am student of ** MSC (Data Science) ** with a passio
 - Performed data cleaning, visualization (Matplotlib, Seaborn), and customer behavior study.
 
 ---
+## 📰 **7. Fake News Detection Project
+
+🧠 Fake News Detection using LSTM and NLP  
+Detecting fake vs real news using deep learning and natural language processing techniques.
+
 
 ## 📚 Education  
 🎓 **Bachelor's in Data Science (Ongoing)**  
